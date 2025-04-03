@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BattleKingdom.Models.Arme">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAABDAAAAAASAAAAAAAAAA=</HashCode>
+      <FileName>Models\Arme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Personnage" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAEgCIAAAAAADCAggAAIAAMAAAAAAIA=</HashCode>
+      <FileName>Models\Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Allie" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Allie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Attaquant" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAEAAAA=</HashCode>
+      <FileName>Models\Attaquant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Ennemi" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Models\Ennemi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.FamilleLapin" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FamilleLapin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.FamilleMario" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FamilleMario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Heros" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="BattleKingdom.Models.Attaquant" FixedToPoint="true">
+      <Path>
+        <Point X="7.25" Y="2.441" />
+        <Point X="7.25" Y="3.25" />
+        <Point X="6" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Heros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Mario" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Peach" Collapsed="true">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Peach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Luigi" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Luigi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleKingdom.Models.Yoshi" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Yoshi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BattleKingdom.Classes.TypePersonnage" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TypePersonnage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
